@@ -38,5 +38,3 @@ I've been working on technology projects for the past three years, working on pr
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/chriscors"><img src="https://github-readme-stats.vercel.app/api?username=chriscors&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="chriscors's GitHub stats" /></a>
-
-<a href="https://github.com/chriscors" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriscors&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
